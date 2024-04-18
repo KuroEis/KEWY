@@ -1,0 +1,60 @@
+# RoadMap
+---
+- ### Español
+	- #### Funciones de la lengua
+	- #### Fromas del discurso
+	- #### Comprensión de lectura
+	- #### Gramática
+	- #### Redacción
+	- #### Vocabulario
+	- #### Ortografía
+- ### Matemáticas
+	- #### Operaciones con números reales, complejos y expresiones algebraicas
+	- #### Productos notables y factorización
+	- #### Ecuaciones
+	- #### Desigualdades
+	- #### Sistema de ecuaciones
+	- #### Funciones algebraicas
+	- #### Trigonometría
+	- #### Funciones exponenciales y logarítmicas
+	- #### Recta
+	- #### Circunferencia
+	- #### Parábola
+	- #### Elipse
+	- #### Hipérbola
+	- #### Ecuación general de segundo grado
+	- #### Límites
+	- #### La derivada
+	- #### La integral
+- ### Física
+	- #### Cinemática
+	- #### Fuerzas, leyes de Newton y Ley de la Gravitación Universal
+	- #### Trabajo y leyes de la conservación
+	- #### Termodinámica
+	- #### Ondas
+	- #### Electromagnetismo
+	- #### Fluidos
+	- #### Óptica
+	- #### Física contemporánea
+- ### Química
+	- #### Temas básicos
+	- #### Agua
+	- #### Aire
+	- #### Alimentos
+	- #### La energía y las reacciones químicas
+- ### Biología
+	- #### Célula
+	- #### Metabolismo celular
+	- #### Reproducción
+	- #### Mecanismos de la herencia
+	- #### Evolución
+	- #### Los seres vivos y su ambiente
+- ### Historia Universal
+	- #### La historia
+	- #### Las revoluciones burguesas
+	- #### Pensamiento y movimientos sociales y políticos del siglo XIX
+	- ####  El imperialismo
+	- #### 
+- ### Historia de México
+- ### Literatura
+- ### Geografía
