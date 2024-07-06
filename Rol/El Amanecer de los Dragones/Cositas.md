@@ -11,4 +11,4 @@ Personas desaparecías (¿y olvidadas?)
 Guerra fría
 Esta guerra se siente muy fría
 
-quien mató a los primeros que encontramos con los osos buhos? (eran del gremio de cazadores)
+quien mató a los primeros que encontramos con los osos buhos? -(eran del gremio de cazadores)
