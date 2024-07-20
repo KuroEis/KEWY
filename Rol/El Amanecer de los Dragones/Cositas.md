@@ -17,4 +17,9 @@ Fallen Lives
 Pueblo de Rito
 
 
+
+Miercoles/Mono
+Everest/Mandril
+Oneisita/Pinguino
+
 quien mató a los primeros que encontramos con los osos buhos? -(eran del gremio de cazadores)
